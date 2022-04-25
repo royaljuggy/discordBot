@@ -1,7 +1,7 @@
 const Discord = require('discord.js');
 
 const client = new Discord.Client();
-const token = 'ODM2MjQ1ODU5NjI0NTUwNDEw.YIbMpQ.tkD7aGL63rD16UdG1RR3eWIjsXI'
+const token = blank
 const prefix = '%';
 
 const fs = require('fs');
